@@ -1,0 +1,5 @@
+setup.py
+example_molecules.egg-info/PKG-INFO
+example_molecules.egg-info/SOURCES.txt
+example_molecules.egg-info/dependency_links.txt
+example_molecules.egg-info/top_level.txt
